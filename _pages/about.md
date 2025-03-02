@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year undergraduate student from [Department of Mathematics](https://math.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/). My research interest includes pure math problems in Algebra and intersection of mathematics, artificial intelligence (AI), and machine learning (ML), with a particular focus on natural language processing (NLP)
+I'm a second year undergraduate student from [Department of Mathematics](https://math.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/). My research interest includes pure math problems in Algebra and intersection of mathematics, artificial intelligence, and machine learning, with a particular focus on natural language processing.
 
 I am very fortunate to be advised by [Prof. Ferdinand Ihringer](https://math.ihringer.org/) from Department of Mathematics, Southern University of Science and Technology (SUSTech).
 
