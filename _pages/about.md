@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year undergraduate student from [Department of Mathematics](https://math.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/). My research interest includes NLP, ,machine learning, number theory, mathematic modelling.
+I'm a second year undergraduate student from [Department of Mathematics](https://math.sustech.edu.cn/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/). My research interest includes NLP, ,machine learning, algebra, mathematic modelling.
 
 I am very fortunate to be advised by [Prof. Ferdinand Ihringer](https://math.ihringer.org/) from Department of Mathematics, Southern University of Science and Technology (SUSTech).
 
