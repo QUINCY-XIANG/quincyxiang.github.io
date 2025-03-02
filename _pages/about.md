@@ -11,7 +11,7 @@ I'm a second year undergraduate student from [Department of Mathematics](https:/
 
 I am very fortunate to be advised by [Prof. Ferdinand Ihringer](https://math.ihringer.org/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University
 
-You can find my CV here: [Xiang Kuixu's Curriculum Vitae]([../assets/CV.pdf](https://github.com/QUINCY-XIANG/quincyxiang.github.io/blob/master/assets/CV.pdf).
+You can find my CV here: [Xiang Kuixu's Curriculum Vitae](https://github.com/QUINCY-XIANG/quincyxiang.github.io/blob/master/assets/CV.pdf).
 
 [Email](12310421@mail.susteh.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) 
 ————————————————
