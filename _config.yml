@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Quincy Xiang / quincyxiang.github.io"
+title                    : "Quincy Xiang"
 title_separator          : "-"
 name                     : &name "quincy xiang"
 description              : &description "personal description"
