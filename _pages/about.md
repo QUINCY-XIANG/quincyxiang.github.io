@@ -13,4 +13,4 @@ I am very fortunate to be advised by [Prof. Ferdinand Ihringer](https://math.ihr
 
 You can find my CV here: [Xiang Kuixu's Curriculum Vitae](https://github.com/QUINCY-XIANG/quincyxiang.github.io/blob/master/assets/CV.pdf).
 
-[Email](12310421@mail.susteh.edu.cn) / [Github](https://github.com/QUINCY-XIANG) / [Wechat](../images/wechat.jpg) 
+[Email](12310421@mail.susteh.edu.cn) / [Github](https://github.com/QUINCY-XIANG)
