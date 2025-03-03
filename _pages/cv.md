@@ -1,2 +1,2 @@
 
-![My CV](/images/cv_png.png)
+![My CV](images/CV_png.png)
